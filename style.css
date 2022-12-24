@@ -1,0 +1,25 @@
+* {
+    margin-left: 2.5em;
+    margin-right: 2.5em;
+}
+
+body {
+    background-image: url("forest.jpeg");
+    background-size: cover;
+}
+
+button{
+    text-align: center;
+    margin-left: 2.5em;
+    margin-right: 2.5em;
+}
+#thebutton {
+    text-align: center;
+    justify-content: center;
+}
+
+h1 {
+    color: white;
+    font-size: 40px;
+    -webkit-text-stroke: 1px black;
+}
